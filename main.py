@@ -242,7 +242,7 @@ if st.button("🔍 天気に応じたエクササイズは？"):
 
         # 天気に応じたYouTube動画の出し分け
         if weather_keyword in ["晴", "雲"]: 
-            video_url = "https://www.youtube.com/watch?v=4mRfbgNzq0k"
+            video_url = "https://www.youtube.com/watch?v=uh82wP51EdM?feature=share"
             video_title = "☀️ ランニングに挑戦してみましょう！"
         elif weather_keyword == "雨":
             video_url = "https://www.youtube.com/watch?v=D0LS8rVto0o"
